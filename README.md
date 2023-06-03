@@ -1,1 +1,1 @@
-# ADSE
+ADSE is an advertisement trading platform for performing trading between youtubers and small scale business people. This project consists of the registration and login page for creators and investors so that this platform can be very effectively used to create revenue for the users.
